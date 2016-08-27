@@ -67,6 +67,8 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+Gra\Library\metadata
+Gra\Library\UnityAssemblies
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -79,3 +81,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.info
